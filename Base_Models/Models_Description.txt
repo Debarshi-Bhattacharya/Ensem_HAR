@@ -1,0 +1,7 @@
+model1: 3levels on CNN (4layers in each)(takes 4input) 
+
+model2: 3levels on CNN (4layers in each) , parallaly 1LSTM layer (takes 5inputs)
+
+model3: Timdistributed ConvLSTM(takes 1input)
+
+model4: 2layered LSTM(takes 1input)
