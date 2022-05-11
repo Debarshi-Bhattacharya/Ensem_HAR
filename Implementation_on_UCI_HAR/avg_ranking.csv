@@ -1,0 +1,6 @@
+,Mean Rank
+CNN-net,3.65
+CNN_LSTM-net,3.45
+ConvLSTM-net,3.6
+Stacked_LSTM-net,3.15
+Ensem-HAR,1.15

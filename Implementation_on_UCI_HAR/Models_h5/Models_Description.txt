@@ -1,0 +1,11 @@
+model1: 3levels on CNN (4layers in each)(takes 4input) 
+Accuracy: 93.41%
+
+model2: 3levels on CNN (4layers in each) , parallaly 1LSTM layer (takes 5inputs)
+Accuracy: 92.87%
+
+model3: Timdistributed ConvLSTM(takes 1input)
+Accuracy: 92.12%
+
+model4: 2layered LSTM(takes 1input)
+Accuracy: 91.78%
